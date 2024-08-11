@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-08-12T21:15:31.1135429+03:00",
+    "temperatureC": 43,
+    "temperatureF": 109,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2024-08-13T21:15:31.1139778+03:00",
+    "temperatureC": 36,
+    "temperatureF": 96,
+    "summary": "Mild"
+  },
+  {
+    "date": "2024-08-14T21:15:31.1139803+03:00",
+    "temperatureC": 2,
+    "temperatureF": 35,
+    "summary": "Sweltering"
+  },
+  {
+    "date": "2024-08-15T21:15:31.1139806+03:00",
+    "temperatureC": 23,
+    "temperatureF": 73,
+    "summary": "Cool"
+  },
+  {
+    "date": "2024-08-16T21:15:31.1139808+03:00",
+    "temperatureC": -9,
+    "temperatureF": 16,
+    "summary": "Freezing"
+  }
+]
